@@ -13,7 +13,7 @@ int main(void) {
 
     somSegniAlterni(nTotale, &sumSegniAlterni);
 
-    printf("SumSegniAlterni: %f\n", sumSegniAlterni);
+    printf("SumSegniAlterni: %2.2f\n", sumSegniAlterni);
 
     return 0;
 }
